@@ -1,0 +1,3 @@
+C:/Users/Matei/Desktop/AI-homework--main/AI-homework--main/cmake-build-debug/CMakeFiles/AI_homework__main.dir
+C:/Users/Matei/Desktop/AI-homework--main/AI-homework--main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matei/Desktop/AI-homework--main/AI-homework--main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
